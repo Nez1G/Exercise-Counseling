@@ -6,3 +6,5 @@ gain mass, well being or personal interest.
 
 For example if the user have joint problems it will advise the user that he should not make some type of exercises because of 
 him/her problem, etc.
+
+The inference system used was the forwad system.
